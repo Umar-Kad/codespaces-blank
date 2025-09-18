@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(70, 70, 177);
+}
+
+.BobaImage {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center
+}
+
+.Coder {
+    width: 200px;
+    height: 100px;
+    border-radius: 15%;
+}
+
+.color-change:active {
+    background-color: rgb(10, 54, 69)
+}
